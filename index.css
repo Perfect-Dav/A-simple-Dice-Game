@@ -108,18 +108,19 @@ button {
     left: 50%;
     transform: translateX(-50%);
     color: #555;
-    background: none;
+    background: #efefef;
     border: none;
+    font-weight: bold;
     font-family: Lato;
     font-size: 20px;
     text-transform: uppercase;
     cursor: pointer;
-    font-weight: 300;
+    height: 50px;
     transition: background-color 0.3s, color 0.3s;
 }
 
-button:hover { font-weight: 600; }
-button:hover i { margin-right: 20px; }
+button:hover { font-weight: 600; background: #EB4D4D; color: #fff; }
+button:hover i { margin-right: 20px; color: #fff; }
 
 button:focus {
     outline: none;
