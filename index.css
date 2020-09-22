@@ -16,7 +16,7 @@
 }
 
 body {
-    bacground: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F1775652-Ruby-Die&psig=AOvVaw0dzhdaqBQRREF6gxMrNLzK&ust=1600887063032000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCBoIu3_esCFQAAAAAdAAAAABAM');
+    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4));
     background-size: cover;
     background-position: center;
     font-family: Lato;
