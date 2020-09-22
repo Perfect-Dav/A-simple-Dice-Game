@@ -57,14 +57,7 @@ function hold() {
         document.querySelector('.player-' + activePlayer + '-panel').classList.remove('active');
         
         gamePlaying = false;
-
-        document.querySelector('.btn-roll').addEventListener('click', function () {
-            alert("The game is over, restart the game by tapping 'New Game'.");
-        });
-
-        document.querySelector('.btn-hold').addEventListener('click', function () {
-            alert("The game is over, restart the game by tapping 'New Game'.");
-        });
+        
     } else {
         nextPlayer();
     }
