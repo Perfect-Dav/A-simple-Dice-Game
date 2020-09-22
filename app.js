@@ -1,5 +1,5 @@
 function gameInstruction() {
-    alert("Hello! Welcome to this simple Dice game created by me (Don't worry about that, lol.) \n\nThe rule of the game are: \n\n- The game has 2 players, playing in rounds In each turn, a player rolls a dice as many times as he wishes. \n- Each result get added to his ROUND score BUT, if the player rolls a 1, all his ROUND score gets lost. \n- After that, it's the next player's turn The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. \n- After that, it's the next player's turn The first player to reach 20 points on GLOBAL score wins the game. \n\nGoodLuck!");
+    alert("Hello! Welcome to this simple Dice game, created by me (Don't worry about that, lol.) \n\nThe rules of the game are: \n\n- The game has 2 players, playing in rounds In each turn, a player rolls a dice as many times as he wishes. \n- Each result get added to his ROUND score BUT, if the player rolls a 1, all his ROUND score gets lost. \n- After that, it's the next player's turn The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. \n- After that, it's the next player's turn The first player to reach 20 points on GLOBAL score wins the game. \n\nGoodLuck!");
 }
 gameInstruction();
 
